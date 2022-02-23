@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Stuff I did for clients...
+# Stuff I did for clients...
 The repos below are paid work I've done. There are several others as well, so if it's not here it's under NDA.
 
 1. **Third Person RPG prototype - Flesh God?** Some grid based elements and some combat - https://github.com/Valairan/ClothingShopSystem
@@ -25,13 +25,13 @@ The repos below are paid work I've done. There are several others as well, so if
 5. **The Depths - The very first game I made that I was paid to make** - https://valairan.itch.io/web-build
 
 
-#Since I was bored...
+# Since I was bored...
 1. **Indoor Navigation in AR** - Try this on your phone. Made this for a contest. Won said contest. - https://github.com/Valairan/iOSReadyNavigation
 2. **The Ball Game** - So simple, yet so difficult. Try beating the high score. - https://github.com/Valairan/ASimpleGame
 3. **Tiramisu** - Share a ride within the work place. - https://github.com/Valairan/Tiramisu
 4. **What's in my Suitcase?** - What's in yout suitcase? Track everything you're carrying while you travel. - https://github.com/Valairan/WhatsInMySuitcase
   Also on the Google Play Store - https://play.google.com/store/apps/details?id=com.valairan.inventory&hl=en
 
-#If you're bored...
+# If you're bored...
 1. **My portflio - (Duh)* - https://darylvalairan.tech
 2. **My itch.io - (Duh)* - https://valairan.itch.io
