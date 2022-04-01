@@ -21,7 +21,7 @@ The repos below are paid work I've done. There are several others as well, so if
 1. **Third Person RPG prototype - Flesh God?** Some grid based elements and some combat - https://github.com/Valairan/ClothingShopSystem
 2. **2D Shop and Clothing System** 2D pixel art clothes that can be equipped by your character - https://github.com/Valairan/ClothingShopSystem
 3. **Flappy Bird Clone for Web (Concept is largely the same)** - https://github.com/Valairan/FlappyBirdClone
-4. **A Skyrim Clone - Client ghosted me just before I started working on magic** - https://valairan.itch.io/survival-game-demo
+4. **A Skyrim Clone - Client got occupied with other things just before I started working on magic** - https://valairan.itch.io/survival-game-demo
 5. **The Depths - The very first game I made that I was paid to make** - https://valairan.itch.io/web-build
 
 
