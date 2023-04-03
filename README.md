@@ -33,5 +33,5 @@ The repos below are paid work I've done. There are several others as well, so if
   Also on the Google Play Store - https://play.google.com/store/apps/details?id=com.valairan.inventory&hl=en
 
 # If you're bored...
-1. **My portflio - (Duh)** - https://darylvalairan.tech
+1. **My portflio - (Duh)** - https://valairan.tech
 2. **My itch.io** - https://valairan.itch.io
