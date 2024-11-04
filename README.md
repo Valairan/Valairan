@@ -23,6 +23,7 @@ Here's some stuff I'm proud of
 The repos below are paid work I've done. There are several others as well, so if it's not here it's under NDA.
 
 1. **Third Person RPG prototype - Flesh God?** Some grid-based elements and some combat - https://github.com/Valairan/ClothingShopSystem \#unity \#c#
+2. **Procedural Planet Generation** No Man's Sky? No, my sky! - https://github.com/jecker7/nifti-pg \#unity \#c#
 3. **2D Shop and Clothing System** 2D pixel art clothes that can be equipped by your character - https://github.com/Valairan/ClothingShopSystem \#unity \#c#
 4. **Flappy Bird Clone for Web (Concept is largely the same)** - https://github.com/Valairan/FlappyBirdClone \#unity \#c#
 5. **A Skyrim Clone - Client got occupied with other things just before I started working on magic** - https://valairan.itch.io/survival-game-demo \#unity \#c#
