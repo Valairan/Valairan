@@ -19,16 +19,8 @@ Here's some stuff I'm proud of
 1. **Tiramisu** - Tiramisu means "Pick me up" in Italian. Here's a simplified ride-share experience built in Canada. None of the hassle, all of the convenience. - https://github.com/Valairan/Tiramisu \#firebase \#android \#ios \#java
 2. **What's In My Suitcase** - Track what you pack with your family using this app. - https://github.com/Valairan/WhatsInMySuitcase \#firebase \#android \#full-stack
 3. **FlatSwap** - Trying to take on the housing problem in Ontario. A small curated community for people looking to transfer their lease. Very Exclusive. - https://github.com/Valairan/FlatSwap \#react \#react-native \#mongo \#node 
-# Stuff I did for clients...
-The repos below are paid work I've done. There are several others as well, so if it's not here it's under NDA.
 
-1. **Third Person RPG prototype - Flesh God?** Some grid-based elements and some combat - https://github.com/Valairan/ClothingShopSystem \#unity \#c#
-2. **Procedural Planet Generation** No Man's Sky? No, my sky! - https://github.com/jecker7/nifti-pg \#unity \#c#
-3. **2D Shop and Clothing System** 2D pixel art clothes that can be equipped by your character - https://github.com/Valairan/ClothingShopSystem \#unity \#c#
-4. **Flappy Bird Clone for Web (Concept is largely the same)** - https://github.com/Valairan/FlappyBirdClone \#unity \#c#
-5. **A Skyrim Clone - Client got occupied with other things just before I started working on magic** - https://valairan.itch.io/survival-game-demo \#unity \#c#
-6. **The Depths - The very first game I made that I was paid to make** - https://valairan.itch.io/web-build \#unity \#c#
-
-# If you're bored...
-1. **My portflio - (Duh)** - https://valairan.tech
+1. **My portflio** - https://valairan.tech
 2. **My itch.io** - https://valairan.itch.io
+
+I'm responsive on LinkedIn. Connect with me there or use this [link](https://calendly.com/darylvalairan/discuss-things-with-me) here. 
