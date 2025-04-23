@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Full Stack developer that makes games on the side...
+# If you need to build something end-to-end, I'm your guy...
 Here's some stuff I'm proud of
 1. **Tiramisu** - Tiramisu means "Pick me up" in Italian. Here's a simplified ride-share experience built in Canada. None of the hassle, all of the convenience. - https://github.com/Valairan/Tiramisu http://tiramesu.ca/ \#firebase \#node \#react \#react-native \#java \# full-sack
 2. **What's In My Suitcase** - Track what you pack with your family using this app. - https://github.com/Valairan/WhatsInMySuitcase \#firebase \#android \#full-stack
